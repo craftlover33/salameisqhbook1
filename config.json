@@ -1,0 +1,82 @@
+{
+    "app": {
+        "status": true,
+        "redirect_url": "",
+        "privacy_policy_url": "https://sites.google.com/view/single-ebook-privacy-policy",
+        "pdf_url": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/salamisqbook1%2FSalam%20E%20Ishq%20Romantic%20Novel%20By%20Rimsha%20Hussain_removed_pagenumber%20(1).pdf?alt=media&token=8289a86f-413f-4458-a5ab-656eac55abb5",
+        "description": "<p>Android Developer Fundamentals is a training course created by the Google Developer Training team. You learn basic Android programming concepts and build a variety of apps, starting with Hello World and working your way up to apps that use content providers and loaders.</p>",
+        "allow_save_book_in_storage": true,
+        "swipe_horizontal_reading_book": true,
+        "show_scroll_handle_reading_book": true,
+        "custom_table_of_contents": true,
+        "enable_app_protection": false,
+        "base64_license_key": ""
+    },
+    "ads": {
+        "ad_status": true,
+        "main_ads": "fan",
+        "backup_ads": "admob",
+        "admob_banner_id": "0",
+        "admob_interstitial_id": "0",
+        "admob_native_id": "0",
+        "admob_app_open_id": "0",
+        "ad_manager_banner_id": "0",
+        "ad_manager_interstitial_id": "0",
+        "ad_manager_native_id": "0",
+        "ad_manager_app_open_id": "0",
+        "fan_banner_id": "0",
+        "fan_interstitial_id": "0",
+        "fan_native_id": "0",
+        "startapp_app_id": "0",
+        "unity_game_id": "0",
+        "unity_banner_id": "banner",
+        "unity_interstitial_id": "video",
+        "applovin_max_banner_id": "0",
+        "applovin_max_interstitial_id": "0",
+        "applovin_max_native_id": "0",
+        "applovin_max_app_open_id": "0",
+        "applovin_discovery_banner_zone_id": "0",
+        "applovin_discovery_interstitial_zone_id": "0",
+        "ironsource_app_key": "0",
+        "ironsource_banner_id": "DefaultBanner",
+        "ironsource_interstitial_id": "DefaultInterstitial",
+        "wortise_app_id": "test-app-id",
+        "wortise_banner_id": "test-banner",
+        "wortise_interstitial_id": "test-interstitial",
+        "wortise_native_id": "test-native",
+        "wortise_app_open_id": "test-app-open",
+        "interstitial_ad_interval": 3
+    },
+    "table_of_contents": [
+        {
+            "page_title": "Salam e Isqh",
+            "page_number": 2
+        }
+    ],
+    "more_apps": [
+        {
+            "id": 1,
+            "title": "",
+            "image": "",
+            "url": ""
+        },
+        {
+            "id": 2,
+            "title": "",
+            "image": "",
+            "url": ""
+        },
+        {
+            "id": 3,
+            "title": "",
+            "image": "",
+            "url": ""
+        },
+        {
+            "id": 4,
+            "title": "",
+            "image": "",
+            "url": ""
+        }
+    ]
+}
