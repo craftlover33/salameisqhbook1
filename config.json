@@ -56,21 +56,21 @@
     "more_apps": [
         {
             "id": 1,
-            "title": "",
-            "image": "",
-            "url": ""
+            "title": "Anjaan: Urdu Love Story Novel",
+            "image": "https://raw.githubusercontent.com/craftlover33/anjaanbook1/main/icon1.png",
+            "url": "https://play.google.com/store/apps/details?id=com.novel.anjaanurduromantic"
         },
         {
             "id": 2,
-            "title": "",
-            "image": "",
-            "url": ""
+            "title": "Gehraiyaan: Urdu Romance Novel",
+            "image": "https://raw.githubusercontent.com/craftlover33/gehraiyaanbook1/main/icon.png",
+            "url": "https://play.google.com/store/apps/details?id=com.novel.gehraiyaanurduromance"
         },
         {
             "id": 3,
-            "title": "",
-            "image": "",
-            "url": ""
+            "title": "Novel Jazbat Mein Shiddat Urdu",
+            "image": "https://raw.githubusercontent.com/craftlover33/jazbatbook1/main/icon.png",
+            "url": "https://play.google.com/store/apps/details?id=com.novel.jazbatmeinshiddaturdu"
         },
         {
             "id": 4,
